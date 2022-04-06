@@ -82,8 +82,8 @@ public class MainActivity extends AppCompatActivity {
                 }catch(Exception e){
                     edPrice.setText("");
                     edYear.setText("");
-                    edYear.setHint("년도");
-                    edPrice.setHint("수리금액");
+                    edYear.setHint("입력해주세요");
+                    edPrice.setHint("입력해주세요");
 
                 }
 

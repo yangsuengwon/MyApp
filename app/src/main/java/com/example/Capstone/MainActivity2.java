@@ -20,7 +20,7 @@ public class MainActivity2 extends AppCompatActivity {
     ArrayList<String> arrData =new ArrayList<>();
     HashMap<Integer,Integer> hmScreenchange =new HashMap<Integer,Integer>();
     HashMap<Integer,Integer> hmPartchange =new HashMap<Integer,Integer>();
-    int a;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
